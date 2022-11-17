@@ -2,3 +2,4 @@ pillow
 cairosvg
 mkdocs-markdownextradata-plugin
 mkdocs-material
+mkdocs-rss-plugin
